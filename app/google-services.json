@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896345645167",
+    "firebase_url": "https://vresturant-31abd.firebaseio.com",
+    "project_id": "vresturant-31abd",
+    "storage_bucket": "vresturant-31abd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896345645167:android:98d415f9cd47bbe5",
+        "android_client_info": {
+          "package_name": "com.example.ruchira.vresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896345645167-0c8csi25f6lfr5k056q0irmdikchb6a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruchira.vresturant",
+            "certificate_hash": "5dcf1384ccb8dbd818cec2c25427e8457b6397ce"
+          }
+        },
+        {
+          "client_id": "896345645167-funub0cg2aipsssggdvahfti9n58mquj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBezJnazPUE2ERDjuVgNF83SwqvlVSkLG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896345645167-funub0cg2aipsssggdvahfti9n58mquj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
