@@ -51,7 +51,7 @@ public class SignIn extends AppCompatActivity {
                             if(user.getPassword().equals(password.getText().toString())){
                                 Toast.makeText(getBaseContext(),"Login success",Toast.LENGTH_SHORT).show();
                             }else{
-                                Toast.makeText(getBaseContext(),"Sign in failled",Toast.LENGTH_SHORT).show();
+                                Toast.makeText(getBaseContext(),"password is incorrect",Toast.LENGTH_SHORT).show();
                             }
                         }else{
                             mDialog.dismiss();
